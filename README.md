@@ -1,7 +1,7 @@
 # Khargny-Mobile-Application
 
-The App is recapping most of the outings places in different districts whether from entertainment places if you want to skip the ordinary or restaurants , cafes to taste the different flavors and finally find cinemas and theatres closer to your home.
-
+The App is recapping most of the outings places in different districts whether from entertainment places if you want to skip the ordinary or restaurants , cafes to taste the different flavors and finally find cinemas and theatres closer to your home. 
+Also, it reccaps Historical places, Kids Areas, Events and Concerts.
 
 Hope you have a fun journey with us.
 
